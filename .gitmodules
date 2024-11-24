@@ -1,0 +1,3 @@
+[submodule "rags2html"]
+	path = rags2html
+	url = https://github.com/Kassy2048/rags2html.git
